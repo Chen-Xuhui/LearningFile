@@ -30,7 +30,7 @@
 
 九。Maven，git
 1.Maven：https://www.bilibili.com/video/BV1dp4y1Q7Hf?from=search&seid=3146302631954764947
-2.Git：https://www.bilibili.com/video/BV1pW411A7a5?from=search&seid=13728419802972661527
+2.Git：https://www.bilibili.com/video/BV1pW411A7a5?from=search&seid=13728419802972661527（已完成）
 
 十。JAVA并发与JVM
 1.java并发：https://www.bilibili.com/video/BV1B7411L7tE?from=search&seid=6910018244748162764
